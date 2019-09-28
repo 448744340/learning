@@ -1,0 +1,2 @@
+﻿carrots.obj : error LNK2005: main 已经在 myfirst.obj 中定义
+D:\project\learning\c++\basic_learning\basic_learning\x64\Debug\basic_learning.exe : fatal error LNK1169: 找到一个或多个多重定义的符号
