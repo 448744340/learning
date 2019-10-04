@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="basiclearning" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug Win32">
+				<Option output="basic_learning" prefix_auto="1" extension_auto="1" />
+				<Option type="0" />
+				<Option compiler="gcc" />
+			</Target>
+			<Target title="Debug x64">
+				<Option output="basic_learning" prefix_auto="1" extension_auto="1" />
+				<Option type="0" />
+				<Option compiler="gcc" />
+			</Target>
+			<Target title="Release x64">
+				<Option output="basic_learning" prefix_auto="1" extension_auto="1" />
+				<Option type="0" />
+				<Option compiler="gcc" />
+			</Target>
+			<Target title="Release Win32">
+				<Option output="basic_learning" prefix_auto="1" extension_auto="1" />
+				<Option type="0" />
+				<Option compiler="gcc" />
+			</Target>
+		</Build>
+		<Unit filename="3_1.cpp" />
+		<Unit filename="3_2.cpp" />
+		<Unit filename="3_3.cpp" />
+		<Unit filename="3_4.cpp" />
+		<Unit filename="3_5.cpp" />
+		<Unit filename="boyi.cpp" />
+		<Unit filename="boyi_digui.cpp" />
+		<Unit filename="carrots.cpp" />
+		<Unit filename="getinfo.cpp" />
+		<Unit filename="zhishuhuan.cpp" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1569888556 source:d:\code repository\learning\learning\c++\basic_learning\basic_learning\3_1.cpp
+	<iostream>
+
+1569888556 source:d:\code repository\learning\learning\c++\basic_learning\basic_learning\3_2.cpp
+	<iostream>
+	<cmath>
+
+1569888556 source:d:\code repository\learning\learning\c++\basic_learning\basic_learning\3_3.cpp
+	<iostream>
+
+1569888556 source:d:\code repository\learning\learning\c++\basic_learning\basic_learning\3_4.cpp
+	<iostream>
+
+1569888556 source:d:\code repository\learning\learning\c++\basic_learning\basic_learning\3_5.cpp
+	<iostream>
+
+1569888556 source:d:\code repository\learning\learning\c++\basic_learning\basic_learning\boyi.cpp
+	<iostream>
+	<stdio.h>
+
+1569888556 source:d:\code repository\learning\learning\c++\basic_learning\basic_learning\boyi_digui.cpp
+	<iostream>
+	<cstdio>
+	<algorithm>
+	<cstring>
+
+1569888556 source:d:\code repository\learning\learning\c++\basic_learning\basic_learning\carrots.cpp
+	<iostream>
+
+1569888556 source:d:\code repository\learning\learning\c++\basic_learning\basic_learning\getinfo.cpp
+	<iostream>
+
+1569888556 source:d:\code repository\learning\learning\c++\basic_learning\basic_learning\zhishuhuan.cpp
+	<cstdio>
+	<iostream>
+	<algorithm>
+	<queue>
+	<cstring>
+	<vector>
+	<map>
+	<cmath>
+
