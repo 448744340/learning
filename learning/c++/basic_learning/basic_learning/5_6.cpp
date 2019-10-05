@@ -29,7 +29,7 @@ int main()
         cout << "Enter the year " << j+1 << "sale" << endl;
         for (i=0;i<Months;i++)
         {
-            cout << "Enter the sales number of " << months[i] << " :";
+            cout << "Enter the sales number of " << months[i] << " : ";
             cin >> sale_num[j][i];
             cout << endl;
             sale_nums +=sale_num[j][i];

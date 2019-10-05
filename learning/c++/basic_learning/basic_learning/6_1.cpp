@@ -1,17 +1,24 @@
 #include <iostream>
+#include <cctype>
 
 int main()
 {
+    using namespace std;
     char ch;
 
-    std::cout << "Type, and I shall repeat.\n";
-    std::cin.get(ch);
-    while (ch != '.')
+    while (cin.get(ch) && ch != '@')
     {
-        if (ch == '\n')
-            std::cout << ch;
-        else
-            std::cout << ch+1;
-        std::cin.get(ch);
+        if (isalpha(ch))
+        {
+            if (isupper(ch))
+            {
+                ch = tolower(ch);
+            }
+            if (islower(ch))
+            {
+                ch = toupper(ch);
+            }
+        }
+        cout << ch;
     }
 }
