@@ -12,7 +12,6 @@ int main()
         cout << "Could not open the file" << endl;
         return 0;
     }
-
     char ch[100];
     inFile.getline(ch,100);
 
