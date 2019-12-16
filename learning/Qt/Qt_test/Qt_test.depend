@@ -1,0 +1,698 @@
+# depslib dependency file v1.0
+1497401221 source:d:\code repository\learning\learning\qt\qt_test\main.cpp
+	"appinit.h"
+	<QApplication>
+	<QTextCodec>
+	<QFile>
+
+1526354922 d:\qt\qt5.11.0\5.11.0\mingw53_32\include\qtwidgets\qapplication
+	"qapplication.h"
+
+1526354922 d:\qt\qt5.11.0\5.11.0\mingw53_32\include\qtwidgets\qapplication.h
+	<QtWidgets/qtwidgetsglobal.h>
+	<QtCore/qcoreapplication.h>
+	<QtGui/qwindowdefs.h>
+	<QtCore/qpoint.h>
+	<QtCore/qsize.h>
+	<QtGui/qcursor.h>
+	<QtWidgets/qdesktopwidget.h>
+	<QtGui/qguiapplication.h>
+
+1526354922 d:\qt\qt5.11.0\5.11.0\mingw53_32\include\qtwidgets\qtwidgetsglobal.h
+	<QtGui/qtguiglobal.h>
+	<QtWidgets/qtwidgets-config.h>
+
+1526354915 d:\qt\qt5.11.0\5.11.0\mingw53_32\include\qtgui\qtguiglobal.h
+	<QtCore/qglobal.h>
+	<QtGui/qtgui-config.h>
+
+1526354914 d:\qt\qt5.11.0\5.11.0\mingw53_32\include\qtcore\qglobal.h
+	<type_traits>
+	<cstddef>
+	<utility>
+	<assert.h>
+	<stddef.h>
+	<QtCore/qconfig-bootstrapped.h>
+	<QtCore/qconfig.h>
+	<QtCore/qtcore-config.h>
+	<QtCore/qsystemdetection.h>
+	<QtCore/qprocessordetection.h>
+	<QtCore/qcompilerdetection.h>
+	<algorithm>
+	<QtCore/qtypeinfo.h>
+	<QtCore/qsysinfo.h>
+	<QtCore/qlogging.h>
+	<QtCore/qflags.h>
+	<QtCore/qatomic.h>
+	<QtCore/qglobalstatic.h>
+	<QtCore/qnumeric.h>
+	<QtCore/qversiontagging.h>
+
+1526354914 d:\qt\qt5.11.0\5.11.0\mingw53_32\include\qtcore\qconfig-bootstrapped.h
+
+1526354996 d:\qt\qt5.11.0\5.11.0\mingw53_32\include\qtcore\qconfig.h
+
+1526354999 d:\qt\qt5.11.0\5.11.0\mingw53_32\include\qtcore\qtcore-config.h
+
+1526354914 d:\qt\qt5.11.0\5.11.0\mingw53_32\include\qtcore\qsystemdetection.h
+	<QtCore/qglobal.h>
+	<TargetConditionals.h>
+	<Availability.h>
+	<AvailabilityMacros.h>
+
+1526354914 d:\qt\qt5.11.0\5.11.0\mingw53_32\include\qtcore\qprocessordetection.h
+	<QtCore/qglobal.h>
+
+1526354914 d:\qt\qt5.11.0\5.11.0\mingw53_32\include\qtcore\qcompilerdetection.h
+	<QtCore/qglobal.h>
+	<utility>
+
+1526354914 d:\qt\qt5.11.0\5.11.0\mingw53_32\include\qtcore\qtypeinfo.h
+	<QtCore/qglobal.h>
+
+1526354914 d:\qt\qt5.11.0\5.11.0\mingw53_32\include\qtcore\qsysinfo.h
+	<QtCore/qglobal.h>
+
+1526354914 d:\qt\qt5.11.0\5.11.0\mingw53_32\include\qtcore\qlogging.h
+	<QtCore/qglobal.h>
+
+1526354914 d:\qt\qt5.11.0\5.11.0\mingw53_32\include\qtcore\qflags.h
+	<QtCore/qglobal.h>
+	<initializer_list>
+
+1526354914 d:\qt\qt5.11.0\5.11.0\mingw53_32\include\qtcore\qatomic.h
+	<QtCore/qglobal.h>
+	<QtCore/qbasicatomic.h>
+
+1526354914 d:\qt\qt5.11.0\5.11.0\mingw53_32\include\qtcore\qbasicatomic.h
+	<QtCore/qatomic.h>
+	<QtCore/qatomic_bootstrap.h>
+	<QtCore/qatomic_cxx11.h>
+
+1526354914 d:\qt\qt5.11.0\5.11.0\mingw53_32\include\qtcore\qatomic_bootstrap.h
+	<QtCore/qgenericatomic.h>
+
+1526354914 d:\qt\qt5.11.0\5.11.0\mingw53_32\include\qtcore\qgenericatomic.h
+	<QtCore/qglobal.h>
+	<QtCore/qtypeinfo.h>
+
+1526354914 d:\qt\qt5.11.0\5.11.0\mingw53_32\include\qtcore\qatomic_cxx11.h
+	<QtCore/qgenericatomic.h>
+	<atomic>
+
+1526354914 d:\qt\qt5.11.0\5.11.0\mingw53_32\include\qtcore\qglobalstatic.h
+	<QtCore/qglobal.h>
+	<QtCore/qatomic.h>
+	<QtCore/qmutex.h>
+
+1526354914 d:\qt\qt5.11.0\5.11.0\mingw53_32\include\qtcore\qmutex.h
+	<QtCore/qglobal.h>
+	<QtCore/qatomic.h>
+	<new>
+	<chrono>
+	<limits>
+
+1526354914 d:\qt\qt5.11.0\5.11.0\mingw53_32\include\qtcore\qnumeric.h
+	<QtCore/qglobal.h>
+
+1526354914 d:\qt\qt5.11.0\5.11.0\mingw53_32\include\qtcore\qversiontagging.h
+	<QtCore/qglobal.h>
+
+1526355012 d:\qt\qt5.11.0\5.11.0\mingw53_32\include\qtgui\qtgui-config.h
+
+1526355012 d:\qt\qt5.11.0\5.11.0\mingw53_32\include\qtwidgets\qtwidgets-config.h
+
+1526354914 d:\qt\qt5.11.0\5.11.0\mingw53_32\include\qtcore\qcoreapplication.h
+	<QtCore/qglobal.h>
+	<QtCore/qstring.h>
+	<QtCore/qobject.h>
+	<QtCore/qcoreevent.h>
+	<QtCore/qeventloop.h>
+	<QtCore/qscopedpointer.h>
+
+1526354914 d:\qt\qt5.11.0\5.11.0\mingw53_32\include\qtcore\qstring.h
+	<QtCore/qchar.h>
+	<QtCore/qbytearray.h>
+	<QtCore/qrefcount.h>
+	<QtCore/qnamespace.h>
+	<QtCore/qstringliteral.h>
+	<QtCore/qstringalgorithms.h>
+	<QtCore/qstringview.h>
+	<string>
+	<iterator>
+	<stdarg.h>
+	<QtCore/qstringbuilder.h>
+
+1526354914 d:\qt\qt5.11.0\5.11.0\mingw53_32\include\qtcore\qchar.h
+	<QtCore/qglobal.h>
+
+1526354914 d:\qt\qt5.11.0\5.11.0\mingw53_32\include\qtcore\qbytearray.h
+	<QtCore/qrefcount.h>
+	<QtCore/qnamespace.h>
+	<QtCore/qarraydata.h>
+	<stdlib.h>
+	<string.h>
+	<stdarg.h>
+	<string>
+	<iterator>
+
+1526354914 d:\qt\qt5.11.0\5.11.0\mingw53_32\include\qtcore\qrefcount.h
+	<QtCore/qatomic.h>
+
+1526354914 d:\qt\qt5.11.0\5.11.0\mingw53_32\include\qtcore\qnamespace.h
+	<QtCore/qglobal.h>
+
+1526354914 d:\qt\qt5.11.0\5.11.0\mingw53_32\include\qtcore\qarraydata.h
+	<QtCore/qrefcount.h>
+	<string.h>
+
+1526354914 d:\qt\qt5.11.0\5.11.0\mingw53_32\include\qtcore\qstringliteral.h
+	<QtCore/qarraydata.h>
+
+1526354914 d:\qt\qt5.11.0\5.11.0\mingw53_32\include\qtcore\qstringalgorithms.h
+	<QtCore/qnamespace.h>
+
+1526354914 d:\qt\qt5.11.0\5.11.0\mingw53_32\include\qtcore\qstringview.h
+	<QtCore/qchar.h>
+	<QtCore/qbytearray.h>
+	<QtCore/qstringliteral.h>
+	<QtCore/qstringalgorithms.h>
+	<string>
+
+1526354914 d:\qt\qt5.11.0\5.11.0\mingw53_32\include\qtcore\qstringbuilder.h
+	<QtCore/qstring.h>
+	<QtCore/qbytearray.h>
+	<string.h>
+
+1526354914 d:\qt\qt5.11.0\5.11.0\mingw53_32\include\qtcore\qobject.h
+	<QtCore/qobjectdefs.h>
+	<QtCore/qstring.h>
+	<QtCore/qbytearray.h>
+	<QtCore/qlist.h>
+	<QtCore/qcoreevent.h>
+	<QtCore/qscopedpointer.h>
+	<QtCore/qmetatype.h>
+	<QtCore/qobject_impl.h>
+	<chrono>
+
+1526354914 d:\qt\qt5.11.0\5.11.0\mingw53_32\include\qtcore\qobjectdefs.h
+	<QtCore/qnamespace.h>
+	<QtCore/qobjectdefs_impl.h>
+
+1526354914 d:\qt\qt5.11.0\5.11.0\mingw53_32\include\qtcore\qobjectdefs_impl.h
+	<QtCore/qnamespace.h>
+
+1526354914 d:\qt\qt5.11.0\5.11.0\mingw53_32\include\qtcore\qlist.h
+	<QtCore/qalgorithms.h>
+	<QtCore/qiterator.h>
+	<QtCore/qrefcount.h>
+	<QtCore/qarraydata.h>
+	<QtCore/qhashfunctions.h>
+	<iterator>
+	<list>
+	<algorithm>
+	<initializer_list>
+	<stdlib.h>
+	<new>
+	<limits.h>
+	<string.h>
+	<QtCore/qbytearraylist.h>
+	<QtCore/qstringlist.h>
+
+1526354914 d:\qt\qt5.11.0\5.11.0\mingw53_32\include\qtcore\qalgorithms.h
+	<QtCore/qglobal.h>
+	<intrin.h>
+
+1526354914 d:\qt\qt5.11.0\5.11.0\mingw53_32\include\qtcore\qiterator.h
+	<QtCore/qglobal.h>
+
+1526354914 d:\qt\qt5.11.0\5.11.0\mingw53_32\include\qtcore\qhashfunctions.h
+	<QtCore/qstring.h>
+	<QtCore/qpair.h>
+	<numeric>
+
+1526354914 d:\qt\qt5.11.0\5.11.0\mingw53_32\include\qtcore\qpair.h
+	<QtCore/qglobal.h>
+
+1526354914 d:\qt\qt5.11.0\5.11.0\mingw53_32\include\qtcore\qbytearraylist.h
+	<QtCore/qlist.h>
+	<QtCore/qbytearray.h>
+
+1526354914 d:\qt\qt5.11.0\5.11.0\mingw53_32\include\qtcore\qstringlist.h
+	<QtCore/qlist.h>
+	<QtCore/qalgorithms.h>
+	<QtCore/qregexp.h>
+	<QtCore/qstring.h>
+	<QtCore/qstringmatcher.h>
+
+1526354914 d:\qt\qt5.11.0\5.11.0\mingw53_32\include\qtcore\qregexp.h
+	<QtCore/qglobal.h>
+	<QtCore/qstring.h>
+
+1526354914 d:\qt\qt5.11.0\5.11.0\mingw53_32\include\qtcore\qstringmatcher.h
+	<QtCore/qstring.h>
+
+1526354914 d:\qt\qt5.11.0\5.11.0\mingw53_32\include\qtcore\qcoreevent.h
+	<QtCore/qnamespace.h>
+	<QtCore/qbytearray.h>
+	<QtCore/qobjectdefs.h>
+
+1526354914 d:\qt\qt5.11.0\5.11.0\mingw53_32\include\qtcore\qscopedpointer.h
+	<QtCore/qglobal.h>
+	<stdlib.h>
+
+1526354914 d:\qt\qt5.11.0\5.11.0\mingw53_32\include\qtcore\qmetatype.h
+	<QtCore/qglobal.h>
+	<QtCore/qatomic.h>
+	<QtCore/qbytearray.h>
+	<QtCore/qvarlengtharray.h>
+	<QtCore/qobjectdefs.h>
+	<new>
+	<vector>
+	<list>
+	<map>
+
+1526354914 d:\qt\qt5.11.0\5.11.0\mingw53_32\include\qtcore\qvarlengtharray.h
+	<QtCore/qcontainerfwd.h>
+	<QtCore/qglobal.h>
+	<QtCore/qalgorithms.h>
+	<new>
+	<string.h>
+	<stdlib.h>
+	<algorithm>
+	<initializer_list>
+	<iterator>
+
+1526354914 d:\qt\qt5.11.0\5.11.0\mingw53_32\include\qtcore\qcontainerfwd.h
+	<QtCore/qglobal.h>
+
+1526354914 d:\qt\qt5.11.0\5.11.0\mingw53_32\include\qtcore\qobject_impl.h
+
+1526354914 d:\qt\qt5.11.0\5.11.0\mingw53_32\include\qtcore\qeventloop.h
+	<QtCore/qobject.h>
+
+1526354915 d:\qt\qt5.11.0\5.11.0\mingw53_32\include\qtgui\qwindowdefs.h
+	<QtGui/qtguiglobal.h>
+	<QtCore/qobjectdefs.h>
+	<QtCore/qnamespace.h>
+	<QtGui/qwindowdefs_win.h>
+
+1526354915 d:\qt\qt5.11.0\5.11.0\mingw53_32\include\qtgui\qwindowdefs_win.h
+	<QtGui/qtguiglobal.h>
+
+1526354914 d:\qt\qt5.11.0\5.11.0\mingw53_32\include\qtcore\qpoint.h
+	<QtCore/qnamespace.h>
+
+1526354914 d:\qt\qt5.11.0\5.11.0\mingw53_32\include\qtcore\qsize.h
+	<QtCore/qnamespace.h>
+
+1526354915 d:\qt\qt5.11.0\5.11.0\mingw53_32\include\qtgui\qcursor.h
+	<QtGui/qtguiglobal.h>
+	<QtCore/qpoint.h>
+	<QtGui/qwindowdefs.h>
+
+1526354922 d:\qt\qt5.11.0\5.11.0\mingw53_32\include\qtwidgets\qdesktopwidget.h
+	<QtWidgets/qtwidgetsglobal.h>
+	<QtWidgets/qwidget.h>
+
+1526354922 d:\qt\qt5.11.0\5.11.0\mingw53_32\include\qtwidgets\qwidget.h
+	<QtWidgets/qtwidgetsglobal.h>
+	<QtGui/qwindowdefs.h>
+	<QtCore/qobject.h>
+	<QtCore/qmargins.h>
+	<QtGui/qpaintdevice.h>
+	<QtGui/qpalette.h>
+	<QtGui/qfont.h>
+	<QtGui/qfontmetrics.h>
+	<QtGui/qfontinfo.h>
+	<QtWidgets/qsizepolicy.h>
+	<QtGui/qregion.h>
+	<QtGui/qbrush.h>
+	<QtGui/qcursor.h>
+	<QtGui/qkeysequence.h>
+	<QtGui/qevent.h>
+
+1526354914 d:\qt\qt5.11.0\5.11.0\mingw53_32\include\qtcore\qmargins.h
+	<QtCore/qnamespace.h>
+
+1526354918 d:\qt\qt5.11.0\5.11.0\mingw53_32\include\qtgui\qpaintdevice.h
+	<QtGui/qtguiglobal.h>
+	<QtGui/qwindowdefs.h>
+	<QtCore/qrect.h>
+
+1526354914 d:\qt\qt5.11.0\5.11.0\mingw53_32\include\qtcore\qrect.h
+	<QtCore/qmargins.h>
+	<QtCore/qsize.h>
+	<QtCore/qpoint.h>
+
+1526354915 d:\qt\qt5.11.0\5.11.0\mingw53_32\include\qtgui\qpalette.h
+	<QtGui/qtguiglobal.h>
+	<QtGui/qwindowdefs.h>
+	<QtGui/qcolor.h>
+	<QtGui/qbrush.h>
+
+1526354918 d:\qt\qt5.11.0\5.11.0\mingw53_32\include\qtgui\qcolor.h
+	<QtGui/qtguiglobal.h>
+	<QtGui/qrgb.h>
+	<QtCore/qnamespace.h>
+	<QtCore/qstringlist.h>
+	<QtGui/qrgba64.h>
+
+1526354919 d:\qt\qt5.11.0\5.11.0\mingw53_32\include\qtgui\qrgb.h
+	<QtGui/qtguiglobal.h>
+	<QtCore/qprocessordetection.h>
+
+1526354919 d:\qt\qt5.11.0\5.11.0\mingw53_32\include\qtgui\qrgba64.h
+	<QtGui/qtguiglobal.h>
+	<QtCore/qprocessordetection.h>
+
+1526354918 d:\qt\qt5.11.0\5.11.0\mingw53_32\include\qtgui\qbrush.h
+	<QtGui/qtguiglobal.h>
+	<QtCore/qpair.h>
+	<QtCore/qpoint.h>
+	<QtCore/qvector.h>
+	<QtCore/qscopedpointer.h>
+	<QtGui/qcolor.h>
+	<QtGui/qmatrix.h>
+	<QtGui/qtransform.h>
+	<QtGui/qimage.h>
+	<QtGui/qpixmap.h>
+
+1526354914 d:\qt\qt5.11.0\5.11.0\mingw53_32\include\qtcore\qvector.h
+	<QtCore/qalgorithms.h>
+	<QtCore/qiterator.h>
+	<QtCore/qlist.h>
+	<QtCore/qrefcount.h>
+	<QtCore/qarraydata.h>
+	<QtCore/qhashfunctions.h>
+	<iterator>
+	<vector>
+	<stdlib.h>
+	<string.h>
+	<initializer_list>
+	<algorithm>
+	<QtCore/qpoint.h>
+
+1526354918 d:\qt\qt5.11.0\5.11.0\mingw53_32\include\qtgui\qmatrix.h
+	<QtGui/qtguiglobal.h>
+	<QtGui/qpolygon.h>
+	<QtGui/qregion.h>
+	<QtGui/qwindowdefs.h>
+	<QtCore/qline.h>
+	<QtCore/qpoint.h>
+	<QtCore/qrect.h>
+
+1526354919 d:\qt\qt5.11.0\5.11.0\mingw53_32\include\qtgui\qpolygon.h
+	<QtGui/qtguiglobal.h>
+	<QtCore/qvector.h>
+	<QtCore/qpoint.h>
+	<QtCore/qrect.h>
+
+1526354919 d:\qt\qt5.11.0\5.11.0\mingw53_32\include\qtgui\qregion.h
+	<QtGui/qtguiglobal.h>
+	<QtCore/qatomic.h>
+	<QtCore/qrect.h>
+	<QtGui/qwindowdefs.h>
+	<QtCore/qdatastream.h>
+
+1526354914 d:\qt\qt5.11.0\5.11.0\mingw53_32\include\qtcore\qdatastream.h
+	<QtCore/qscopedpointer.h>
+	<QtCore/qiodevice.h>
+	<QtCore/qpair.h>
+
+1526354914 d:\qt\qt5.11.0\5.11.0\mingw53_32\include\qtcore\qiodevice.h
+	<QtCore/qglobal.h>
+	<QtCore/qobject.h>
+	<QtCore/qobjectdefs.h>
+	<QtCore/qscopedpointer.h>
+	<QtCore/qstring.h>
+
+1526354914 d:\qt\qt5.11.0\5.11.0\mingw53_32\include\qtcore\qline.h
+	<QtCore/qpoint.h>
+
+1526354919 d:\qt\qt5.11.0\5.11.0\mingw53_32\include\qtgui\qtransform.h
+	<QtGui/qtguiglobal.h>
+	<QtGui/qmatrix.h>
+	<QtGui/qpainterpath.h>
+	<QtGui/qpolygon.h>
+	<QtGui/qregion.h>
+	<QtGui/qwindowdefs.h>
+	<QtCore/qline.h>
+	<QtCore/qpoint.h>
+	<QtCore/qrect.h>
+
+1526354919 d:\qt\qt5.11.0\5.11.0\mingw53_32\include\qtgui\qpainterpath.h
+	<QtGui/qtguiglobal.h>
+	<QtGui/qmatrix.h>
+	<QtCore/qglobal.h>
+	<QtCore/qrect.h>
+	<QtCore/qline.h>
+	<QtCore/qvector.h>
+	<QtCore/qscopedpointer.h>
+
+1526354915 d:\qt\qt5.11.0\5.11.0\mingw53_32\include\qtgui\qimage.h
+	<QtGui/qtguiglobal.h>
+	<QtGui/qcolor.h>
+	<QtGui/qrgb.h>
+	<QtGui/qpaintdevice.h>
+	<QtGui/qpixelformat.h>
+	<QtGui/qtransform.h>
+	<QtCore/qbytearray.h>
+	<QtCore/qrect.h>
+	<QtCore/qstring.h>
+	<QtCore/qstringlist.h>
+
+1526354915 d:\qt\qt5.11.0\5.11.0\mingw53_32\include\qtgui\qpixelformat.h
+	<QtGui/qtguiglobal.h>
+
+1526354915 d:\qt\qt5.11.0\5.11.0\mingw53_32\include\qtgui\qpixmap.h
+	<QtGui/qtguiglobal.h>
+	<QtGui/qpaintdevice.h>
+	<QtGui/qcolor.h>
+	<QtCore/qnamespace.h>
+	<QtCore/qstring.h>
+	<QtCore/qsharedpointer.h>
+	<QtGui/qimage.h>
+	<QtGui/qtransform.h>
+
+1526354914 d:\qt\qt5.11.0\5.11.0\mingw53_32\include\qtcore\qsharedpointer.h
+	<QtCore/qglobal.h>
+	<QtCore/qatomic.h>
+	<QtCore/qshareddata.h>
+	<QtCore/qsharedpointer_impl.h>
+
+1526354914 d:\qt\qt5.11.0\5.11.0\mingw53_32\include\qtcore\qshareddata.h
+	<QtCore/qglobal.h>
+	<QtCore/qatomic.h>
+	<QtCore/qhash.h>
+	<QtCore/qhashfunctions.h>
+
+1526354914 d:\qt\qt5.11.0\5.11.0\mingw53_32\include\qtcore\qhash.h
+	<QtCore/qchar.h>
+	<QtCore/qiterator.h>
+	<QtCore/qlist.h>
+	<QtCore/qrefcount.h>
+	<QtCore/qhashfunctions.h>
+	<initializer_list>
+	<algorithm>
+
+1526354914 d:\qt\qt5.11.0\5.11.0\mingw53_32\include\qtcore\qsharedpointer_impl.h
+	<new>
+	<QtCore/qatomic.h>
+	<QtCore/qobject.h>
+	<QtCore/qhash.h>
+	<QtCore/qhashfunctions.h>
+
+1526354919 d:\qt\qt5.11.0\5.11.0\mingw53_32\include\qtgui\qfont.h
+	<QtGui/qtguiglobal.h>
+	<QtGui/qwindowdefs.h>
+	<QtCore/qstring.h>
+	<QtCore/qsharedpointer.h>
+
+1526354919 d:\qt\qt5.11.0\5.11.0\mingw53_32\include\qtgui\qfontmetrics.h
+	<QtGui/qtguiglobal.h>
+	<QtGui/qfont.h>
+	<QtCore/qsharedpointer.h>
+	<QtCore/qrect.h>
+
+1526354919 d:\qt\qt5.11.0\5.11.0\mingw53_32\include\qtgui\qfontinfo.h
+	<QtGui/qtguiglobal.h>
+	<QtGui/qfont.h>
+	<QtCore/qsharedpointer.h>
+
+1526354922 d:\qt\qt5.11.0\5.11.0\mingw53_32\include\qtwidgets\qsizepolicy.h
+	<QtWidgets/qtwidgetsglobal.h>
+	<QtCore/qobject.h>
+	<QtCore/qalgorithms.h>
+
+1526354915 d:\qt\qt5.11.0\5.11.0\mingw53_32\include\qtgui\qkeysequence.h
+	<QtGui/qtguiglobal.h>
+	<QtCore/qstring.h>
+	<QtCore/qobjectdefs.h>
+
+1526354915 d:\qt\qt5.11.0\5.11.0\mingw53_32\include\qtgui\qevent.h
+	<QtGui/qtguiglobal.h>
+	<QtGui/qwindowdefs.h>
+	<QtGui/qregion.h>
+	<QtCore/qnamespace.h>
+	<QtCore/qstring.h>
+	<QtGui/qkeysequence.h>
+	<QtCore/qcoreevent.h>
+	<QtCore/qvariant.h>
+	<QtCore/qmap.h>
+	<QtCore/qvector.h>
+	<QtCore/qset.h>
+	<QtCore/qurl.h>
+	<QtCore/qfile.h>
+	<QtGui/qvector2d.h>
+	<QtGui/qtouchdevice.h>
+
+1526354914 d:\qt\qt5.11.0\5.11.0\mingw53_32\include\qtcore\qvariant.h
+	<QtCore/qatomic.h>
+	<QtCore/qbytearray.h>
+	<QtCore/qlist.h>
+	<QtCore/qmetatype.h>
+	<QtCore/qmap.h>
+	<QtCore/qhash.h>
+	<QtCore/qstring.h>
+	<QtCore/qstringlist.h>
+	<QtCore/qobject.h>
+	<QtCore/qbytearraylist.h>
+	<variant>
+
+1526354914 d:\qt\qt5.11.0\5.11.0\mingw53_32\include\qtcore\qmap.h
+	<QtCore/qiterator.h>
+	<QtCore/qlist.h>
+	<QtCore/qrefcount.h>
+	<QtCore/qpair.h>
+	<QtCore/qdebug.h>
+	<map>
+	<new>
+	<functional>
+	<initializer_list>
+
+1526354914 d:\qt\qt5.11.0\5.11.0\mingw53_32\include\qtcore\qdebug.h
+	<QtCore/qalgorithms.h>
+	<QtCore/qhash.h>
+	<QtCore/qlist.h>
+	<QtCore/qmap.h>
+	<QtCore/qpair.h>
+	<QtCore/qtextstream.h>
+	<QtCore/qstring.h>
+	<QtCore/qvector.h>
+	<QtCore/qset.h>
+	<QtCore/qcontiguouscache.h>
+	<QtCore/qsharedpointer.h>
+	<vector>
+	<list>
+	<map>
+	<utility>
+
+1526354914 d:\qt\qt5.11.0\5.11.0\mingw53_32\include\qtcore\qtextstream.h
+	<QtCore/qiodevice.h>
+	<QtCore/qstring.h>
+	<QtCore/qchar.h>
+	<QtCore/qlocale.h>
+	<QtCore/qscopedpointer.h>
+	<stdio.h>
+
+1526354914 d:\qt\qt5.11.0\5.11.0\mingw53_32\include\qtcore\qlocale.h
+	<QtCore/qvariant.h>
+	<QtCore/qstring.h>
+	<QtCore/qobjectdefs.h>
+	<QtCore/qshareddata.h>
+
+1526354914 d:\qt\qt5.11.0\5.11.0\mingw53_32\include\qtcore\qset.h
+	<QtCore/qhash.h>
+	<initializer_list>
+	<iterator>
+
+1526354914 d:\qt\qt5.11.0\5.11.0\mingw53_32\include\qtcore\qcontiguouscache.h
+	<QtCore/qatomic.h>
+	<limits.h>
+	<new>
+
+1526354914 d:\qt\qt5.11.0\5.11.0\mingw53_32\include\qtcore\qurl.h
+	<QtCore/qbytearray.h>
+	<QtCore/qobjectdefs.h>
+	<QtCore/qstring.h>
+	<QtCore/qlist.h>
+	<QtCore/qpair.h>
+	<QtCore/qglobal.h>
+	<QtCore/qurlquery.h>
+
+1526354914 d:\qt\qt5.11.0\5.11.0\mingw53_32\include\qtcore\qurlquery.h
+	<QtCore/qpair.h>
+	<QtCore/qshareddata.h>
+	<QtCore/qurl.h>
+	<QtCore/qstringlist.h>
+
+1526354914 d:\qt\qt5.11.0\5.11.0\mingw53_32\include\qtcore\qfile.h
+	<QtCore/qfiledevice.h>
+	<QtCore/qstring.h>
+	<stdio.h>
+
+1526354914 d:\qt\qt5.11.0\5.11.0\mingw53_32\include\qtcore\qfiledevice.h
+	<QtCore/qiodevice.h>
+	<QtCore/qstring.h>
+
+1526354915 d:\qt\qt5.11.0\5.11.0\mingw53_32\include\qtgui\qvector2d.h
+	<QtGui/qtguiglobal.h>
+	<QtCore/qpoint.h>
+	<QtCore/qmetatype.h>
+
+1526354915 d:\qt\qt5.11.0\5.11.0\mingw53_32\include\qtgui\qtouchdevice.h
+	<QtGui/qtguiglobal.h>
+	<QtCore/qobject.h>
+
+1526354915 d:\qt\qt5.11.0\5.11.0\mingw53_32\include\qtgui\qguiapplication.h
+	<QtGui/qtguiglobal.h>
+	<QtCore/qcoreapplication.h>
+	<QtGui/qwindowdefs.h>
+	<QtGui/qinputmethod.h>
+	<QtCore/qlocale.h>
+	<QtCore/qpoint.h>
+	<QtCore/qsize.h>
+
+1526354915 d:\qt\qt5.11.0\5.11.0\mingw53_32\include\qtgui\qinputmethod.h
+	<QtGui/qtguiglobal.h>
+	<QtCore/qobject.h>
+
+1526354919 d:\qt\qt5.11.0\5.11.0\mingw53_32\include\qtgui\qfont
+	"qfont.h"
+
+1526354922 d:\qt\qt5.11.0\5.11.0\mingw53_32\include\qtwidgets\qpushbutton
+	"qpushbutton.h"
+
+1526354922 d:\qt\qt5.11.0\5.11.0\mingw53_32\include\qtwidgets\qpushbutton.h
+	<QtWidgets/qtwidgetsglobal.h>
+	<QtWidgets/qabstractbutton.h>
+
+1526354922 d:\qt\qt5.11.0\5.11.0\mingw53_32\include\qtwidgets\qabstractbutton.h
+	<QtWidgets/qtwidgetsglobal.h>
+	<QtGui/qicon.h>
+	<QtGui/qkeysequence.h>
+	<QtWidgets/qwidget.h>
+
+1526354915 d:\qt\qt5.11.0\5.11.0\mingw53_32\include\qtgui\qicon.h
+	<QtGui/qtguiglobal.h>
+	<QtCore/qsize.h>
+	<QtCore/qlist.h>
+	<QtGui/qpixmap.h>
+
+1505541876 d:\code repository\learning\learning\qt\qt_test\appinit.h
+	<QObject>
+
+1526354914 d:\qt\qt5.11.0\5.11.0\mingw53_32\include\qtcore\qobject
+	"qobject.h"
+
+1526354913 d:\qt\qt5.11.0\5.11.0\mingw53_32\include\qtcore\qtextcodec
+	"qtextcodec.h"
+
+1526354913 d:\qt\qt5.11.0\5.11.0\mingw53_32\include\qtcore\qtextcodec.h
+	<QtCore/qstring.h>
+	<QtCore/qlist.h>
+
+1526354914 d:\qt\qt5.11.0\5.11.0\mingw53_32\include\qtcore\qfile
+	"qfile.h"
+

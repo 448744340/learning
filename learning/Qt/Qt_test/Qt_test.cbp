@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Qt_test" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Qt_test" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Qt_test" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="0" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add directory="D:/Qt/Qt5.11.0/5.11.0/mingw53_32/include" />
+			<Add directory="D:/Qt/Qt5.11.0/5.11.0/mingw53_32/include/ActiveQt" />
+			<Add directory="D:/Qt/Qt5.11.0/5.11.0/mingw53_32/include/QtCLucene" />
+			<Add directory="D:/Qt/Qt5.11.0/5.11.0/mingw53_32/include/QtConcurrent" />
+			<Add directory="D:/Qt/Qt5.11.0/5.11.0/mingw53_32/include/QtCore" />
+			<Add directory="D:/Qt/Qt5.11.0/5.11.0/mingw53_32/include/QtDeclarative" />
+			<Add directory="D:/Qt/Qt5.11.0/5.11.0/mingw53_32/include/QtDesigner" />
+			<Add directory="D:/Qt/Qt5.11.0/5.11.0/mingw53_32/include/QtDesignerComponents" />
+			<Add directory="D:/Qt/Qt5.11.0/5.11.0/mingw53_32/include/QtGui" />
+			<Add directory="D:/Qt/Qt5.11.0/5.11.0/mingw53_32/include/QtHelp" />
+			<Add directory="D:/Qt/Qt5.11.0/5.11.0/mingw53_32/include/QtMultimedia" />
+			<Add directory="D:/Qt/Qt5.11.0/5.11.0/mingw53_32/include/QtMultimediaQuick_p" />
+			<Add directory="D:/Qt/Qt5.11.0/5.11.0/mingw53_32/include/QtMultimediaWidgets" />
+			<Add directory="D:/Qt/Qt5.11.0/5.11.0/mingw53_32/include/QtNetwork" />
+			<Add directory="D:/Qt/Qt5.11.0/5.11.0/mingw53_32/include/QtOpenGL" />
+			<Add directory="D:/Qt/Qt5.11.0/5.11.0/mingw53_32/include/QtOpenGLExtensions" />
+			<Add directory="D:/Qt/Qt5.11.0/5.11.0/mingw53_32/include/QtPlatformSupport" />
+			<Add directory="D:/Qt/Qt5.11.0/5.11.0/mingw53_32/include/QtPrintSupport" />
+			<Add directory="D:/Qt/Qt5.11.0/5.11.0/mingw53_32/include/QtQml" />
+			<Add directory="D:/Qt/Qt5.11.0/5.11.0/mingw53_32/include/QtQuick" />
+			<Add directory="D:/Qt/Qt5.11.0/5.11.0/mingw53_32/include/QtQuickParticles" />
+			<Add directory="D:/Qt/Qt5.11.0/5.11.0/mingw53_32/include/QtQuickTest" />
+			<Add directory="D:/Qt/Qt5.11.0/5.11.0/mingw53_32/include/QtScript" />
+			<Add directory="D:/Qt/Qt5.11.0/5.11.0/mingw53_32/include/QtScriptTools" />
+			<Add directory="D:/Qt/Qt5.11.0/5.11.0/mingw53_32/include/QtSensors" />
+			<Add directory="D:/Qt/Qt5.11.0/5.11.0/mingw53_32/include/QtSerialPort" />
+			<Add directory="D:/Qt/Qt5.11.0/5.11.0/mingw53_32/include/QtSql" />
+			<Add directory="D:/Qt/Qt5.11.0/5.11.0/mingw53_32/include/QtSvg" />
+			<Add directory="D:/Qt/Qt5.11.0/5.11.0/mingw53_32/include/QtTest" />
+			<Add directory="D:/Qt/Qt5.11.0/5.11.0/mingw53_32/include/QtUiTools" />
+			<Add directory="D:/Qt/Qt5.11.0/5.11.0/mingw53_32/include/QtV8" />
+			<Add directory="D:/Qt/Qt5.11.0/5.11.0/mingw53_32/include/QtWebKit" />
+			<Add directory="D:/Qt/Qt5.11.0/5.11.0/mingw53_32/include/QtWebKitWidgets" />
+			<Add directory="D:/Qt/Qt5.11.0/5.11.0/mingw53_32/include/QtWidgets" />
+			<Add directory="D:/Qt/Qt5.11.0/5.11.0/mingw53_32/include/QtXml" />
+			<Add directory="D:/Qt/Qt5.11.0/5.11.0/mingw53_32/include/QtXmlPatterns" />
+			<Add directory="D:/Qt/Qt5.11.0/5.11.0/mingw53_32/include/QtZlib" />
+		</Compiler>
+		<Linker>
+			<Add library="libQt5Core" />
+			<Add library="libQt5Gui" />
+			<Add library="libQt5Widgets" />
+			<Add directory="D:/Qt/Qt5.11.0/5.11.0/mingw53_32/lib" />
+		</Linker>
+		<Unit filename="main.cpp" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
