@@ -1,0 +1,25 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "D:/CodeBlocks/MinGW/include/*",
+                "D:/CodeBlocks/MinGW/lib/gcc/mingw32/4.7.1/include/*"
+                //"C:/MinGW/lib/gcc/mingw32/5.3.0/include/c++/*",
+                //"C:/MinGW/lib/gcc/mingw32/5.3.0/include/c++/mingw32/*",
+                //"C:/MinGW/lib/gcc/mingw32/5.3.0/include/c++/backward/*"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "compilerPath": "C:\\strawberry\\c\\bin\\gcc.exe",
+            "cStandard": "c11",
+            "cppStandard": "c++14",
+            "intelliSenseMode": "clang-x86"
+        }
+    ],
+    "version": 4
+}
