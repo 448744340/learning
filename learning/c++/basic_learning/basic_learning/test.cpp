@@ -2,24 +2,23 @@
 #include<vector>
 #include<map>
 #include<algorithm>
+#include<stdio.h>
+#include<bits/stdc++.h>
 
 using namespace std;
-struct T{
+
+
+struct Node{
     int a;
-    int b;  //a代表距离，b代表了补给量
-    bool operator<(const T &c) const
+    int b;
+};
+
+int main()
+{
+
+    vector<int> a={1,2,3,4};
+    for(int i=0;i<4;i++)
     {
-        return a>c.a;
+        cout<<a[i]<<endl;
     }
-}stop[100];
-
-main(){
-
-   map<string,string> a={{"abc","a"},{"abc","a"}};
-
-   map<string,string>::iterator it;
-   for(it=a.begin();it!=a.end();it++)
-   {
-       cout<<it->second<<" ";
-   }
 }
