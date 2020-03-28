@@ -3,22 +3,34 @@
 #include<map>
 #include<algorithm>
 #include<stdio.h>
-#include<bits/stdc++.h>
+#include<unordered_map>
+#include<queue>
 
 using namespace std;
 
 
-struct Node{
-    int a;
-    int b;
+struct TreeNode{
+    int val;
+    TreeNode *left;
+    TreeNode *right;
+    TreeNode(int x): val(x),left(NULL),right(NULL){}
+};
+
+class Node{
+public:
+    int val;
+    Node* next;
+    Node* random;
+
+    Node(int _val):val(_val),next(NULL),random(NULL) {}
 };
 
 int main()
 {
 
-    vector<int> a={1,2,3,4};
-    for(int i=0;i<4;i++)
-    {
-        cout<<a[i]<<endl;
-    }
+    char c='a';
+    string str="";
+    str +=c;
+    cout<<str;
+
 }
